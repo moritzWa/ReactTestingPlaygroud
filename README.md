@@ -1,2 +1,0 @@
-# ReactTestingPlaygroud
-Created with CodeSandbox
